@@ -1,25 +1,33 @@
 # **DeepScreen – AI-Powered Early Autism Detection from Videos**
 
-*A Comparative Deep Learning Framework for Behavioral Analysis Using SSBD2*
 
 DeepScreen is an AI-powered video-based system designed to detect early signs of Autism Spectrum Disorder (ASD) using **action recognition**, **pose estimation**, and **spatio-temporal deep learning**.
 This project implements and compares multiple architectures—**LSTM, BiLSTM, GRU, CNN-LSTM, and 3D-CNN**—to learn behavioral patterns from children’s movement sequences.
 
-This work is based on the research project **AI-Powered Early Autism Detection from Videos: A Comparative Approach** .
 
 ---
 
 ## 🚀 **Key Features**
 
-* ✔️ Behavioral analysis using **skeletal pose sequences**
-* ✔️ Video preprocessing with **MediaPipe Pose (33 keypoints)**
-* ✔️ Spatio-temporal deep learning pipelines
-* ✔️ Comparative evaluation of five model families
-* ✔️ ~95.69% accuracy achieved with **Bi-LSTM**
-* ✔️ Supports multi-class classification (e.g., *action*, *no_action*, *spinning*, *head banging*, *arm flapping*)
-* ✔️ Dataset extension through custom video recordings
+### ** Computer Vision (CV)**
 
----
+* **Pose Estimation:** MediaPipe Pose
+* **Keypoint Extraction:** 2D skeletal joint detection
+* **Motion Feature Processing:** Temporal keypoint sequence analysis
+* **Video Preprocessing:** Frame sampling, normalization, resizing
+
+### ** Deep Learning (DL) & Sequential Modeling**
+
+* **Recurrent Neural Networks**
+* **Hybrid Architectures and Spatio-Temporal Model**
+* **Spatial–Temporal Models:**
+
+### **7. Research & Evaluation**
+
+* Action recognition evaluation metrics: Accuracy, F1-Score, Precision, Recall
+* Comparative model benchmarking
+
+--
 
 # 📁 **Dataset – SSBD2**
 
