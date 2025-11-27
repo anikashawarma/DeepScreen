@@ -7,22 +7,21 @@ This project implements and compares multiple architectures—**LSTM, BiLSTM, GR
 
 ---
 
-## 🚀 **Key Features**
+## 🚀 Key Features
 
-### ** Computer Vision (CV)**
+### Computer Vision (CV)
 
 * **Pose Estimation:** MediaPipe Pose
 * **Keypoint Extraction:** 2D skeletal joint detection
 * **Motion Feature Processing:** Temporal keypoint sequence analysis
 * **Video Preprocessing:** Frame sampling, normalization, resizing
 
-### ** Deep Learning (DL) & Sequential Modeling**
+### Deep Learning (DL) & Sequential Modeling
 
-* **Recurrent Neural Networks**
-* **Hybrid Architectures and Spatio-Temporal Model**
-* **Spatial–Temporal Models:**
+* *Recurrent Neural Networks*
+* *Hybrid Architectures and Spatio-Temporal Model*
 
-### **7. Research & Evaluation**
+### Research & Evaluation
 
 * Action recognition evaluation metrics: Accuracy, F1-Score, Precision, Recall
 * Comparative model benchmarking
