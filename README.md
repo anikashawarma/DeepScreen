@@ -175,7 +175,7 @@ As suggested in the paper’s conclusion :
 If you use this work, please cite:
 
 ```
-Sharma, A. (2025).
+Sharma, A. (2025), Satyam (2025.
 AI-Powered Early Autism Detection from Videos: A Comparative Approach.
 Bennett University.
 ```
